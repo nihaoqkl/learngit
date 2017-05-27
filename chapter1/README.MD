@@ -3,16 +3,15 @@
 ###创建远程github公用库
 github.com -> New repository -> Repository name :  xxx ; Public -> Create repository
 
-##拉取或通过远程github
+## 拉取或通过远程github
 
-###拉取方式
+### 拉取方式
 ```
 1.git clone git@github.com:nihaoqkl/xxx.git 
-
 ```
 
 
-###同步方式
+### 同步方式
 ```
 mkdir xxx
 cd xxx
