@@ -1,6 +1,7 @@
-##基本的用法
+## 基本的用法
 
-###创建远程github公用库
+### 创建远程github公用库
+
 github.com -> New repository -> Repository name :  xxx ; Public -> Create repository
 
 ## 拉取或通过远程github
